@@ -1,5 +1,5 @@
  <h1 align="center">
-  <img alt="huawei" src="huawei-logo.png" />
+  <img alt="unicamp-huawei" src="unicamp-huawei-logo.png" />
 </h1>
 
 <h1 align="center">Huawei ICT Academy (HCIA-IA)</h1>
