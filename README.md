@@ -2,7 +2,7 @@
   <img alt="unicamp-huawei" src="unicamp-huawei-logo.png" />
 </h1>
 
-<h1 align="center">Huawei ICT Academy (HCIA-IA)</h1>
+<h1 align="center">UNICAMP - Huawei ICT Academy (HCIA-IA)</h1>
 
 ## Description
 
